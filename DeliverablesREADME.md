@@ -1,4 +1,4 @@
-# Group Chat (CIS 457)
+# Group Chat (CIS 457) - README and deliverables
 
 This is a simple group chat app with a Python socket server (`server.py`) and a Tkinter client (`client.py`).
 
